@@ -1,2 +1,5 @@
-# Django_Book
-# Django_Book
+# Django BOOK
+
+### #3
+- python manage.py createsuperuser
+- 
